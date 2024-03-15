@@ -1,0 +1,8 @@
+bear food
+cat
+apple
+dog
+hi
+word
+banana
+cat
